@@ -1,12 +1,12 @@
 Package.describe({
     name: "areich:machina",
-    version: "0.1.1",
+    version: "0.1.2",
     summary: "A Meteor library for creating workflow through powerful and flexible finite state machines.",
     git: "https://github.com/alexreich/meteor-machina"
 });
 
 Npm.depends({
-    'machina': '1.0.0-1'
+    'machina': '1.1.2'
 });
 
 Package.on_use(function (api) {
