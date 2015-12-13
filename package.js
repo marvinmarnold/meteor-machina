@@ -1,8 +1,8 @@
 Package.describe({
-    name: "areich:machina",
+    name: "marvin:machina",
     version: "0.1.2",
     summary: "A Meteor library for creating workflow through powerful and flexible finite state machines.",
-    git: "https://github.com/alexreich/meteor-machina"
+    git: "https://github.com/marvinmarnold/meteor-machina"
 });
 
 Npm.depends({

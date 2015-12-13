@@ -1,6 +1,11 @@
 # machina
 Meteor package for workflow: [machina.js] Finite State Machine (FSM), client &amp; server
 
+All credit to [mgebundy](https://github.com/mgebundy/meteor-machina) & [alexreich](https://github.com/alexreich/meteor-machina). Updated and available on Atmosphere.
+
+## Install
+    meteor add marvin:machina
+
 ## Background:
 A [Finite State Machine] is a computational abstraction that:
   - Has a finite number of states in which it can exist
